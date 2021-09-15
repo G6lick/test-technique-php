@@ -1,6 +1,3 @@
-<?php
-
-?>
 <div style="display: flex; justify-content: space-around;">
     <div>
         <h3>Tableau des avoirs</h3>
