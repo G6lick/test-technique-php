@@ -6,5 +6,5 @@ Créer un base de données : test_technique<br/><br/>
 
 Importer le jeu de données<br/>
 
-Avoir : déclaration - corrective > 0<br/>
-Régularisation : déclaration - corrective < 0
+Avoir : total - corrective > 0<br/>
+Régularisation : total - corrective < 0
